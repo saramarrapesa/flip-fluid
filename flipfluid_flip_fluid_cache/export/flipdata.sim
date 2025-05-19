@@ -245,7 +245,7 @@
             "isize": 183,
             "jsize": 360,
             "ksize": 126,
-            "logfile_name": "flipfluid.txt",
+            "logfile_name": "flipfluid.001.txt",
             "name": "Cube.001",
             "preview_dx": 0.10834654966990152,
             "savestate_interval": 50,
